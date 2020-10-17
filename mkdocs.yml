@@ -1,0 +1,8 @@
+site_name: "react-website"
+site_description: "testing template for react website creation "
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
